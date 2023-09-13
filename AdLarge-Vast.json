@@ -1,0 +1,167 @@
+{
+  "VAST": {
+    "$": {
+      "version": "4.0",
+      "xmlns": "http://www.iab.com/VAST"
+    },
+    "Ad": [
+      {
+        "$": {
+          "id": "VoxnestAd9e83c2a3-97f8-433d-804e-4d6ed48a756a",
+          "sequence": "1"
+        },
+        "InLine": [
+          {
+            "AdSystem": [
+              "Voxnest"
+            ],
+            "Impression": [
+              {
+                "_": "https://spreaker.deliveryengine.adswizz.com/vast/4.0/v1.1/impression?H4sIAAAAAAAAAH1WW3PaOhD+NeTFY48l49uDHyAkOaRJ2pQ2oXlhZEnGKkb2sUQI/PqubGwT5vQMjNDeV7urT5D9yl1Vu9SRZMsTVdWcbHh9RQybCOUwXoh3Xh+SkT8dYczKvSxKwmA78mdXhVCaS14no9BIRcP3JrCGWURZGMWERjQNQuQFLM4YjnBMY8xpaBTxNazqzIgTGnMaZIx5yAspDmP4cYPYz3BGUG/CpG5NMlIoPgpnV4TNiCZJzauy1iCgRPN1WR9gO59MQxsHI2/Kyi0RspFKymvKpea1Q8vtyL/RpF5zzZkNpYBD5by2hcxKUPbAsisLKKaiKIRcgyAVjPFa2Ttlc6K0jRwCxapyQR3JIcHrzmq1iEJwEiI/wvbYRQiPbex6IRqPgf1zMYPVdVw3Co2arnfcJFQTyucM4uA08DgmYzDNQhshzu2URsR2cUCoHyAWBQwMFotvI3wrwKDP1ptSYTx4plhTarYQG7bHUvJVI/KBqi+NMqBNQm6ToBpI42Zb9rTrAi2rEwnNAnLdke1pKFDtCVX22U5lgyy9CJlexEwvg6YXUdOLsOmZ78vA6afIoi1xiFyUhv9bYki5LZlvUiJmzEzojGuaN+PrmzvgY9xyzA6WRmCuTic19+yTEOPmshWCKafabTuZmXTYvZNid6nfjMiJFc6M/1m782/44X7Dlvc5uyve0w06zn+XH08/JvvH671I8f2/b69PLlm+Fc84Rqn8nv/afhTz35VL5UvxcH2/STHKyetYfBX3grx+37wt748Py5fjw+tLTr1n/bjw87e7F0Xv8urXwd+9LZ9F9jzyZubr31Q0b6+YjxlnHuchSuMxjcZnE3bClqN0qgZzWmBZdPPXAgvZrbfmfrI53MJkqB5hrOZKkbQ4K0oLA33JBANLkQkCd1Xow6DnDTqKbW6k8cL+6qYoAUX+O5BBnP4QBZHrHVnzhMuWa9BUsEssBdW0JpLNGhRK9vu902kYDBpMW5hKPglpmkR+GAehf7UlHxOmEnTh9ukzfAs164C7g+zWACkNOKUPFU9AuS6LYohs2uHkBNCPJc1RBxNAeSJ18jJZ/GiZ/EM7ihM9Zwkax4Mir/aJmc+zAjXB2i5/KxkFrOya3Kkcq1IJLUp5UoPMbJPaSW+nVlUt3gk9JGduabmTun+Yfi5Oyoy/C8q7B6nq3xazQgezBg1818Hu2PEjZxz0z4pQgzYU3SRqpTslJAxcr7Tm5UmpCcC2pLfxAVs7tbrnrknPpLrnEg1jowdRRXuR58Lj1wsKcjLyPCcMe24pW64djR0vxtEpKjm9pchAXRtT9o6f4G3MrcmW14IOkdWQqm+MulzlkGxb25a97s7bHH+rOrJpAsJu4LZ9gFfZfBuj3VCjx/IIDyjQt77jWiMcPRIqpC4VQOjUmsONLyxgWV8X1tJCMFL+Cv4qxNakqgr+ytMvQhtbL3S8wJh/+efH4wNEsQqx4dYdp5vSqF/ndWlg9hYhiGM+1oJkBF663viGrXs5il0EAzFUvVRDxk02vSTtBV2MroNsqPSMq40uKwUZBtYDqcx+UJR/c7E975W2bmHAm352cAM9cXq0aSvOZVvuP1HBsz3HCQAA",
+                "$": {
+                  "id": "9e83c2a3-97f8-433d-804e-4d6ed48a756a"
+                }
+              },
+              {
+                "_": "https://events-us-east-1.ipredictive.com/d/rtb/v24/adswizz/won?zid=adswizz_1_0_1&sid=ceb894f2-a7fb-4799-9937-5640b789c899-imp322_0_2b64f419-40f7-11ee-bc8a-026ac561d86d&crid=23046185&adid=71582&oid=2037144&cid=401124&spid=662&pubid=287&site_id=2793379616&auid=5032455&algid=1&algrev=1&offpc=8.769444444444444&maxbid=13.5&optpc=11.83214&cstpc=8.769444444444444&xts=1692800482&pbap=CgVhdWRpbxAHGgFtIgEyKglNaWNyb3NvZnQyBEVkZ2U6BE9TIFhCBjEyLjUuMVICZW5aEVBFUlNPTkFMX0NPTVBVVEVSYABqC0RBQVNUX0FVRElPigECLTSaASA5ZDk1NjczNGQxNGZlNjkxNzIxYTZmYjkzNzY5NTM4NqUBvBYHQq0BHcmowrIBBTM2MTQywAEAyAEC0gEHUFJJVkFURdoBVgokYzc4ZTZjNGQtMTc2ZS00MjM4LWEyZjktNTBkNTVhY2ZiNjE0EXwsfeiCuhFAGgVGSVJTVCIFNzQ1OTAiBTM1MzkyIgUzNjE0MiIFNDY4NTcwAEAA-gEgY2RkMzkwNTVkNDg4OTNlMTNmMWEwMGI2M2Y4M2Q0NDKCAiRjZjA2MjA2OC1kODFiLTQxYTItODRjZS1hZDFiYzU5OTM3ZTeKAgNQVUKSAgw1MC4yMDQuNTguNDaaAgJYUqACALACAfICiAFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE1LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzExNS4wLjE5MDEuMjAz-gIERWRnZYIDBTMwMzEzigMHQXRsYW50YZIDAzUyNJoDAkdBogMCVVOqAwIxMLEDfCx96IK6EUC6Awc0MTgwNDM5wgMDNTI0ygMQQ29tY2FzdCBCdXNpbmVzc9IDBHdpZmnaAwxzcHJlYWtlci5jb23qAyQyYjY0ZjQxOC00MGY3LTExZWUtYmM4YS0wMjZhYzU2MWQ4NmTKBDE4NDAsIDg1MCwgODYwLCA5NDAsIDk1MCwgOTYwLCA5MjA0MCwgOTIwNTAsIDkyMDYw4QR88rBQa5rlP-oEAjg58gQERWRnZfoEAkdBkgUIc3ByZWFrZXKaBSRjNzhlNmM0ZC0xNzZlLTQyMzgtYTJmOS01MGQ1NWFjZmI2MTTKBQEx0gUqYWRzd2l6ei13LWIyMGU4ZDhlYzAyNTYyNWE2NmMzZGRjMWJmN2I0ODE08AUA-gUcMjAxOjUyNCwxNTozNjE0MiwyMDA5Oi0zODA5N4AGBIkGmpmZmZmZqT-iBgw1MC4yMDQuNTguNDY&au_pc=8.76945&au_cur=USD&rand=1692714082452",
+                "$": {
+                  "id": "ThirdPartyImpressionUrl1"
+                }
+              },
+              {
+                "_": "https://events-us-east-1.ipredictive.com/d/csimp/pixel?zid=adswizz_1_0_1&sid=ceb894f2-a7fb-4799-9937-5640b789c899-imp322_0_2b64f419-40f7-11ee-bc8a-026ac561d86d&crid=23046185&adid=71582&oid=2037144&cid=401124&spid=662&pubid=287&site_id=2793379616&auid=5032455&algid=1&algrev=1&offpc=8.769444444444444&maxbid=13.5&optpc=11.83214&cstpc=8.769444444444444&xts=1692800482&pbap=CgVhdWRpbxAHGgFtIgEyKglNaWNyb3NvZnQyBEVkZ2U6BE9TIFhCBjEyLjUuMVICZW5aEVBFUlNPTkFMX0NPTVBVVEVSYABqC0RBQVNUX0FVRElPigECLTSaASA5ZDk1NjczNGQxNGZlNjkxNzIxYTZmYjkzNzY5NTM4NqUBvBYHQq0BHcmowrIBBTM2MTQywAEAyAEC0gEHUFJJVkFURdoBVgokYzc4ZTZjNGQtMTc2ZS00MjM4LWEyZjktNTBkNTVhY2ZiNjE0EXwsfeiCuhFAGgVGSVJTVCIFNzQ1OTAiBTM1MzkyIgUzNjE0MiIFNDY4NTcwAEAA-gEgY2RkMzkwNTVkNDg4OTNlMTNmMWEwMGI2M2Y4M2Q0NDKCAiRjZjA2MjA2OC1kODFiLTQxYTItODRjZS1hZDFiYzU5OTM3ZTeKAgNQVUKSAgw1MC4yMDQuNTguNDaaAgJYUqACALACAfICiAFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE1LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzExNS4wLjE5MDEuMjAz-gIERWRnZYIDBTMwMzEzigMHQXRsYW50YZIDAzUyNJoDAkdBogMCVVOqAwIxMLEDfCx96IK6EUC6Awc0MTgwNDM5wgMDNTI0ygMQQ29tY2FzdCBCdXNpbmVzc9IDBHdpZmnaAwxzcHJlYWtlci5jb23qAyQyYjY0ZjQxOC00MGY3LTExZWUtYmM4YS0wMjZhYzU2MWQ4NmTKBDE4NDAsIDg1MCwgODYwLCA5NDAsIDk1MCwgOTYwLCA5MjA0MCwgOTIwNTAsIDkyMDYw4QR88rBQa5rlP-oEAjg58gQERWRnZfoEAkdBkgUIc3ByZWFrZXKaBSRjNzhlNmM0ZC0xNzZlLTQyMzgtYTJmOS01MGQ1NWFjZmI2MTTKBQEx0gUqYWRzd2l6ei13LWIyMGU4ZDhlYzAyNTYyNWE2NmMzZGRjMWJmN2I0ODE08AUA-gUcMjAxOjUyNCwxNTozNjE0MiwyMDA5Oi0zODA5N4AGBIkGmpmZmZmZqT-iBgw1MC4yMDQuNTguNDY&au_pc=8.76945&au_cur=USD&uid=mTVIpmSCoxuah%2FRI5UCyWhUe2STIcaMNFhHKuE%2Bb72188%2BF2kQcVcQMiQYkL2N0u&uidt=PUB&rr=1692714082452",
+                "$": {
+                  "id": "ThirdPartyImpressionUrl2"
+                }
+              },
+              {
+                "_": "https://yieldopt.spreaker.com/v3/events?adevent=%7B%22e%22%3A%22impression%22%2C%22ei%22%3A%2215564a77-581a-4f21-9dde-26ff639a9abf%22%2C%22at%22%3A%22preroll%22%2C%22er%22%3A%22audio%22%2C%22ri%22%3A%22b3ae5ef4-b34e-4b6f-91a5-a5eedd3e67f2%22%2C%22rt%22%3A1692714082%2C%22p%22%3A%22sp_adswizz%22%2C%22cu%22%3A%22%22%2C%22cs%22%3A%22%22%2C%22ce%22%3A%22%22%2C%22te%22%3A%22VAST%22%2C%22cr%22%3A%22adlarge%22%2C%22id%22%3A%229e83c2a3-97f8-433d-804e-4d6ed48a756a%22%2C%22au%22%3A%22https%3A%2F%2Fmedia-cdn.ipredictive.com%2Faudio%2F71582%2F1892bc3dc88_CT15WHT23AR___STREAMING_RADIO_Atlanta.mp3%22%2C%22ic%22%3A%22IAB7-26%22%2C%22icr%22%3A%5B%22IAB7-26%22%5D%2C%22aid%22%3A%2240637a0dc4630bc6b645efe0da4be77b%22%2C%22a%22%3A%22cancercenter.com%22%2C%22lid%22%3A%228af88a0721655faa76369e4e28dddfc8%22%2C%22l%22%3A%22Adelphic_2037144%22%2C%22act%22%3A%22returned%22%2C%22cpm%22%3A7.91%2C%22acr%22%3A7.91%2C%22aca%22%3A2.5%2C%22pt%22%3A%22download%22%2C%22co%22%3A%22US%22%2C%22rd%22%3Afalse%2C%22re%22%3Afalse%2C%22alr%22%3A%5B%5D%2C%22apr%22%3A%5B%5D%7D&signature=n5Azzd%2BrvmXMSOsMqRnZm2q6Zp8%3D",
+                "$": {
+                  "id": "ThirdPartyImpressionUrl3"
+                }
+              }
+            ],
+            "Creatives": [
+              {
+                "Creative": [
+                  {
+                    "$": {
+                      "id": "9e83c2a3-97f8-433d-804e-4d6ed48a756a",
+                      "sequence": "1"
+                    },
+                    "UniversalAdId": [
+                      {
+                        "$": {
+                          "idRegistry": "unknown",
+                          "idValue": "unknown"
+                        }
+                      }
+                    ],
+                    "Linear": [
+                      {
+                        "Duration": [
+                          "00:00:15.000"
+                        ],
+                        "MediaFiles": [
+                          {
+                            "MediaFile": [
+                              {
+                                "_": "https://media-cdn.ipredictive.com/audio/71582/1892bc3dc88_CT15WHT23AR___STREAMING_RADIO_Atlanta.mp3",
+                                "$": {
+                                  "delivery": "progressive",
+                                  "type": "audio/mpeg",
+                                  "width": "0",
+                                  "height": "0",
+                                  "bitrate": "320",
+                                  "mimetype": "audio/mpeg"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "TrackingEvents": [
+                          {
+                            "Tracking": [
+                              {
+                                "_": "https://spreaker.deliveryengine.adswizz.com/vast/4.0/v1.1/quartile/start?H4sIAAAAAAAAAH1WW3PaOhD+NeTFY48l49uDHyAkOaRJ2pQ2oXlhZEnGKkb2sUQI/PqubGwT5vQMjNDeV7urT5D9yl1Vu9SRZMsTVdWcbHh9RQybCOUwXoh3Xh+SkT8dYczKvSxKwmA78mdXhVCaS14no9BIRcP3JrCGWURZGMWERjQNQuQFLM4YjnBMY8xpaBTxNazqzIgTGnMaZIx5yAspDmP4cYPYz3BGUG/CpG5NMlIoPgpnV4TNiCZJzauy1iCgRPN1WR9gO59MQxsHI2/Kyi0RspFKymvKpea1Q8vtyL/RpF5zzZkNpYBD5by2hcxKUPbAsisLKKaiKIRcgyAVjPFa2Ttlc6K0jRwCxapyQR3JIcHrzmq1iEJwEiI/wvbYRQiPbex6IRqPgf1zMYPVdVw3Co2arnfcJFQTyucM4uA08DgmYzDNQhshzu2URsR2cUCoHyAWBQwMFotvI3wrwKDP1ptSYTx4plhTarYQG7bHUvJVI/KBqi+NMqBNQm6ToBpI42Zb9rTrAi2rEwnNAnLdke1pKFDtCVX22U5lgyy9CJlexEwvg6YXUdOLsOmZ78vA6afIoi1xiFyUhv9bYki5LZlvUiJmzEzojGuaN+PrmzvgY9xyzA6WRmCuTic19+yTEOPmshWCKafabTuZmXTYvZNid6nfjMiJFc6M/1m782/44X7Dlvc5uyve0w06zn+XH08/JvvH671I8f2/b69PLlm+Fc84Rqn8nv/afhTz35VL5UvxcH2/STHKyetYfBX3grx+37wt748Py5fjw+tLTr1n/bjw87e7F0Xv8urXwd+9LZ9F9jzyZubr31Q0b6+YjxlnHuchSuMxjcZnE3bClqN0qgZzWmBZdPPXAgvZrbfmfrI53MJkqB5hrOZKkbQ4K0oLA33JBANLkQkCd1Xow6DnDTqKbW6k8cL+6qYoAUX+O5BBnP4QBZHrHVnzhMuWa9BUsEssBdW0JpLNGhRK9vu902kYDBpMW5hKPglpmsRxiKPYv9qSjwlTCbpw+/QZvoWadcDdQXZrgJQGnNKHiiegXJdFMUQ27XByAujHkuaogwmgPJE6eZksfrRM/qEdxYmeswSN40GRV/vEzOdZgZpgbZe/lYwCVnZN7lSOVamEFqU8qUFmtkntpLdTq6oW74QekjO3tNxJ3T9MPxcnZcbfBeXdg1T1b4tZoYNZgwa+62B37PiRMw76Z0WoQRuKbhK10p0SEgauV1rz8qTUBGBb0tv4gK2dWt1z16RnUt1ziYax0YOoor3Ic+Hx6wUFORl5nhOGPbeULdeOxo4X4+gUlZzeUmSgro0pe8dP8Dbm1mTLa0GHyGpI1TdGXa5ySLatbcted+dtjr9VHdk0AWE3cNs+wKtsvo3RbqjRY3mEBxToW99xrRGOHgkVUpcKIHRqzeHGFxawrK8La2khGCl/BX8VYmtSVQV/5ekXoY2tFzpeYMy//PPj8QGiWIXYcOuO001p1K/zujQwe4sQxDEfa0EyAi9db3zD1r0cxS6CgRiqXqoh4yabXpL2gi5G10E2VHrG1UaXlYIMA+uBVGY/KMq/udie90pbtzDgTT87uIGeOD3atBXnsi33H5fTJGXHCQAA",
+                                "$": {
+                                  "event": "start"
+                                }
+                              },
+                              {
+                                "_": "https://events-us-east-1.ipredictive.com/d/track/video?zid=adswizz_1_0_1&sid=ceb894f2-a7fb-4799-9937-5640b789c899-imp322_0_2b64f419-40f7-11ee-bc8a-026ac561d86d&crid=23046185&adid=71582&oid=2037144&cid=401124&spid=662&pubid=287&site_id=2793379616&auid=5032455&algid=1&algrev=1&offpc=8.769444444444444&maxbid=13.5&optpc=11.83214&cstpc=8.769444444444444&xts=1692800482&pbap=CgVhdWRpbxAHGgFtIgEyKglNaWNyb3NvZnQyBEVkZ2U6BE9TIFhCBjEyLjUuMVICZW5aEVBFUlNPTkFMX0NPTVBVVEVSYABqC0RBQVNUX0FVRElPigECLTSaASA5ZDk1NjczNGQxNGZlNjkxNzIxYTZmYjkzNzY5NTM4NqUBvBYHQq0BHcmowrIBBTM2MTQywAEAyAEC0gEHUFJJVkFURdoBVgokYzc4ZTZjNGQtMTc2ZS00MjM4LWEyZjktNTBkNTVhY2ZiNjE0EXwsfeiCuhFAGgVGSVJTVCIFNzQ1OTAiBTM1MzkyIgUzNjE0MiIFNDY4NTcwAEAA-gEgY2RkMzkwNTVkNDg4OTNlMTNmMWEwMGI2M2Y4M2Q0NDKCAiRjZjA2MjA2OC1kODFiLTQxYTItODRjZS1hZDFiYzU5OTM3ZTeKAgNQVUKSAgw1MC4yMDQuNTguNDaaAgJYUqACALACAfICiAFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE1LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzExNS4wLjE5MDEuMjAz-gIERWRnZYIDBTMwMzEzigMHQXRsYW50YZIDAzUyNJoDAkdBogMCVVOqAwIxMLEDfCx96IK6EUC6Awc0MTgwNDM5wgMDNTI0ygMQQ29tY2FzdCBCdXNpbmVzc9IDBHdpZmnaAwxzcHJlYWtlci5jb23qAyQyYjY0ZjQxOC00MGY3LTExZWUtYmM4YS0wMjZhYzU2MWQ4NmTKBDE4NDAsIDg1MCwgODYwLCA5NDAsIDk1MCwgOTYwLCA5MjA0MCwgOTIwNTAsIDkyMDYw4QR88rBQa5rlP-oEAjg58gQERWRnZfoEAkdBkgUIc3ByZWFrZXKaBSRjNzhlNmM0ZC0xNzZlLTQyMzgtYTJmOS01MGQ1NWFjZmI2MTTKBQEx0gUqYWRzd2l6ei13LWIyMGU4ZDhlYzAyNTYyNWE2NmMzZGRjMWJmN2I0ODE08AUA-gUcMjAxOjUyNCwxNTozNjE0MiwyMDA5Oi0zODA5N4AGBIkGmpmZmZmZqT-iBgw1MC4yMDQuNTguNDY&ez_p=&eid=1",
+                                "$": {
+                                  "event": "start"
+                                }
+                              },
+                              {
+                                "_": "https://spreaker.deliveryengine.adswizz.com/vast/4.0/v1.1/quartile/first?H4sIAAAAAAAAAH1WW3PaOhD+NeTFY48l49uDHyAkOaRJ2pQ2oXlhZEnGKkb2sUQI/PqubGwT5vQMjNDeV7urT5D9yl1Vu9SRZMsTVdWcbHh9RQybCOUwXoh3Xh+SkT8dYczKvSxKwmA78mdXhVCaS14no9BIRcP3JrCGWURZGMWERjQNQuQFLM4YjnBMY8xpaBTxNazqzIgTGnMaZIx5yAspDmP4cYPYz3BGUG/CpG5NMlIoPgpnV4TNiCZJzauy1iCgRPN1WR9gO59MQxsHI2/Kyi0RspFKymvKpea1Q8vtyL/RpF5zzZkNpYBD5by2hcxKUPbAsisLKKaiKIRcgyAVjPFa2Ttlc6K0jRwCxapyQR3JIcHrzmq1iEJwEiI/wvbYRQiPbex6IRqPgf1zMYPVdVw3Co2arnfcJFQTyucM4uA08DgmYzDNQhshzu2URsR2cUCoHyAWBQwMFotvI3wrwKDP1ptSYTx4plhTarYQG7bHUvJVI/KBqi+NMqBNQm6ToBpI42Zb9rTrAi2rEwnNAnLdke1pKFDtCVX22U5lgyy9CJlexEwvg6YXUdOLsOmZ78vA6afIoi1xiFyUhv9bYki5LZlvUiJmzEzojGuaN+PrmzvgY9xyzA6WRmCuTic19+yTEOPmshWCKafabTuZmXTYvZNid6nfjMiJFc6M/1m782/44X7Dlvc5uyve0w06zn+XH08/JvvH671I8f2/b69PLlm+Fc84Rqn8nv/afhTz35VL5UvxcH2/STHKyetYfBX3grx+37wt748Py5fjw+tLTr1n/bjw87e7F0Xv8urXwd+9LZ9F9jzyZubr31Q0b6+YjxlnHuchSuMxjcZnE3bClqN0qgZzWmBZdPPXAgvZrbfmfrI53MJkqB5hrOZKkbQ4K0oLA33JBANLkQkCd1Xow6DnDTqKbW6k8cL+6qYoAUX+O5BBnP4QBZHrHVnzhMuWa9BUsEssBdW0JpLNGhRK9vu902kYDBpMW5hKPglpmsRxiKPYv9qSjwlTCbpw+/QZvoWadcDdQXZrgJQGnNKHiiegXJdFMUQ27XByAujHkuaogwmgPJE6eZksfrRM/qEdxYmeswSN40GRV/vEzOdZgZpgbZe/lYwCVnZN7lSOVamEFqU8qUFmtkntpLdTq6oW74QekjO3tNxJ3T9MPxcnZcbfBeXdg1T1b4tZoYNZgwa+62B37PiRMw76Z0WoQRuKbhK10p0SEgauV1rz8qTUBGBb0tv4gK2dWt1z16RnUt1ziYax0YOoor3Ic+Hx6wUFORl5nhOGPbeULdeOxo4X4+gUlZzeUmSgro0pe8dP8Dbm1mTLa0GHyGpI1TdGXa5ySLatbcted+dtjr9VHdk0AWE3cNs+wKtsvo3RbqjRY3mEBxToW99xrRGOHgkVUpcKIHRqzeHGFxawrK8La2khGCl/BX8VYmtSVQV/5ekXoY2tFzpeYMy//PPj8QGiWIXYcOuO001p1K/zujQwe4sQxDEfa0EyAi9db3zD1r0cxS6CgRiqXqoh4yabXpL2gi5G10E2VHrG1UaXlYIMA+uBVGY/KMq/udie90pbtzDgTT87uIGeOD3atBXnsi33H5fTJGXHCQAA",
+                                "$": {
+                                  "event": "firstQuartile"
+                                }
+                              },
+                              {
+                                "_": "https://events-us-east-1.ipredictive.com/d/track/video?zid=adswizz_1_0_1&sid=ceb894f2-a7fb-4799-9937-5640b789c899-imp322_0_2b64f419-40f7-11ee-bc8a-026ac561d86d&crid=23046185&adid=71582&oid=2037144&cid=401124&spid=662&pubid=287&site_id=2793379616&auid=5032455&algid=1&algrev=1&offpc=8.769444444444444&maxbid=13.5&optpc=11.83214&cstpc=8.769444444444444&xts=1692800482&pbap=CgVhdWRpbxAHGgFtIgEyKglNaWNyb3NvZnQyBEVkZ2U6BE9TIFhCBjEyLjUuMVICZW5aEVBFUlNPTkFMX0NPTVBVVEVSYABqC0RBQVNUX0FVRElPigECLTSaASA5ZDk1NjczNGQxNGZlNjkxNzIxYTZmYjkzNzY5NTM4NqUBvBYHQq0BHcmowrIBBTM2MTQywAEAyAEC0gEHUFJJVkFURdoBVgokYzc4ZTZjNGQtMTc2ZS00MjM4LWEyZjktNTBkNTVhY2ZiNjE0EXwsfeiCuhFAGgVGSVJTVCIFNzQ1OTAiBTM1MzkyIgUzNjE0MiIFNDY4NTcwAEAA-gEgY2RkMzkwNTVkNDg4OTNlMTNmMWEwMGI2M2Y4M2Q0NDKCAiRjZjA2MjA2OC1kODFiLTQxYTItODRjZS1hZDFiYzU5OTM3ZTeKAgNQVUKSAgw1MC4yMDQuNTguNDaaAgJYUqACALACAfICiAFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE1LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzExNS4wLjE5MDEuMjAz-gIERWRnZYIDBTMwMzEzigMHQXRsYW50YZIDAzUyNJoDAkdBogMCVVOqAwIxMLEDfCx96IK6EUC6Awc0MTgwNDM5wgMDNTI0ygMQQ29tY2FzdCBCdXNpbmVzc9IDBHdpZmnaAwxzcHJlYWtlci5jb23qAyQyYjY0ZjQxOC00MGY3LTExZWUtYmM4YS0wMjZhYzU2MWQ4NmTKBDE4NDAsIDg1MCwgODYwLCA5NDAsIDk1MCwgOTYwLCA5MjA0MCwgOTIwNTAsIDkyMDYw4QR88rBQa5rlP-oEAjg58gQERWRnZfoEAkdBkgUIc3ByZWFrZXKaBSRjNzhlNmM0ZC0xNzZlLTQyMzgtYTJmOS01MGQ1NWFjZmI2MTTKBQEx0gUqYWRzd2l6ei13LWIyMGU4ZDhlYzAyNTYyNWE2NmMzZGRjMWJmN2I0ODE08AUA-gUcMjAxOjUyNCwxNTozNjE0MiwyMDA5Oi0zODA5N4AGBIkGmpmZmZmZqT-iBgw1MC4yMDQuNTguNDY&ez_p=&eid=2",
+                                "$": {
+                                  "event": "firstQuartile"
+                                }
+                              },
+                              {
+                                "_": "https://spreaker.deliveryengine.adswizz.com/vast/4.0/v1.1/quartile/midpoint?H4sIAAAAAAAAAH1WW3PaOhD+NeTFY48l49uDHyAkOaRJ2pQ2oXlhZEnGKkb2sUQI/PqubGwT5vQMjNDeV7urT5D9yl1Vu9SRZMsTVdWcbHh9RQybCOUwXoh3Xh+SkT8dYczKvSxKwmA78mdXhVCaS14no9BIRcP3JrCGWURZGMWERjQNQuQFLM4YjnBMY8xpaBTxNazqzIgTGnMaZIx5yAspDmP4cYPYz3BGUG/CpG5NMlIoPgpnV4TNiCZJzauy1iCgRPN1WR9gO59MQxsHI2/Kyi0RspFKymvKpea1Q8vtyL/RpF5zzZkNpYBD5by2hcxKUPbAsisLKKaiKIRcgyAVjPFa2Ttlc6K0jRwCxapyQR3JIcHrzmq1iEJwEiI/wvbYRQiPbex6IRqPgf1zMYPVdVw3Co2arnfcJFQTyucM4uA08DgmYzDNQhshzu2URsR2cUCoHyAWBQwMFotvI3wrwKDP1ptSYTx4plhTarYQG7bHUvJVI/KBqi+NMqBNQm6ToBpI42Zb9rTrAi2rEwnNAnLdke1pKFDtCVX22U5lgyy9CJlexEwvg6YXUdOLsOmZ78vA6afIoi1xiFyUhv9bYki5LZlvUiJmzEzojGuaN+PrmzvgY9xyzA6WRmCuTic19+yTEOPmshWCKafabTuZmXTYvZNid6nfjMiJFc6M/1m782/44X7Dlvc5uyve0w06zn+XH08/JvvH671I8f2/b69PLlm+Fc84Rqn8nv/afhTz35VL5UvxcH2/STHKyetYfBX3grx+37wt748Py5fjw+tLTr1n/bjw87e7F0Xv8urXwd+9LZ9F9jzyZubr31Q0b6+YjxlnHuchSuMxjcZnE3bClqN0qgZzWmBZdPPXAgvZrbfmfrI53MJkqB5hrOZKkbQ4K0oLA33JBANLkQkCd1Xow6DnDTqKbW6k8cL+6qYoAUX+O5BBnP4QBZHrHVnzhMuWa9BUsEssBdW0JpLNGhRK9vu902kYDBpMW5hKPglpmsRxiKPYv9qSjwlTCbpw+/QZvoWadcDdQXZrgJQGnNKHiiegXJdFMUQ27XByAujHkuaogwmgPJE6eZksfrRM/qEdxYmeswSN40GRV/vEzOdZgZpgbZe/lYwCVnZN7lSOVamEFqU8qUFmtkntpLdTq6oW74QekjO3tNxJ3T9MPxcnZcbfBeXdg1T1b4tZoYNZgwa+62B37PiRMw76Z0WoQRuKbhK10p0SEgauV1rz8qTUBGBb0tv4gK2dWt1z16RnUt1ziYax0YOoor3Ic+Hx6wUFORl5nhOGPbeULdeOxo4X4+gUlZzeUmSgro0pe8dP8Dbm1mTLa0GHyGpI1TdGXa5ySLatbcted+dtjr9VHdk0AWE3cNs+wKtsvo3RbqjRY3mEBxToW99xrRGOHgkVUpcKIHRqzeHGFxawrK8La2khGCl/BX8VYmtSVQV/5ekXoY2tFzpeYMy//PPj8QGiWIXYcOuO001p1K/zujQwe4sQxDEfa0EyAi9db3zD1r0cxS6CgRiqXqoh4yabXpL2gi5G10E2VHrG1UaXlYIMA+uBVGY/KMq/udie90pbtzDgTT87uIGeOD3atBXnsi33H5fTJGXHCQAA",
+                                "$": {
+                                  "event": "midpoint"
+                                }
+                              },
+                              {
+                                "_": "https://events-us-east-1.ipredictive.com/d/track/video?zid=adswizz_1_0_1&sid=ceb894f2-a7fb-4799-9937-5640b789c899-imp322_0_2b64f419-40f7-11ee-bc8a-026ac561d86d&crid=23046185&adid=71582&oid=2037144&cid=401124&spid=662&pubid=287&site_id=2793379616&auid=5032455&algid=1&algrev=1&offpc=8.769444444444444&maxbid=13.5&optpc=11.83214&cstpc=8.769444444444444&xts=1692800482&pbap=CgVhdWRpbxAHGgFtIgEyKglNaWNyb3NvZnQyBEVkZ2U6BE9TIFhCBjEyLjUuMVICZW5aEVBFUlNPTkFMX0NPTVBVVEVSYABqC0RBQVNUX0FVRElPigECLTSaASA5ZDk1NjczNGQxNGZlNjkxNzIxYTZmYjkzNzY5NTM4NqUBvBYHQq0BHcmowrIBBTM2MTQywAEAyAEC0gEHUFJJVkFURdoBVgokYzc4ZTZjNGQtMTc2ZS00MjM4LWEyZjktNTBkNTVhY2ZiNjE0EXwsfeiCuhFAGgVGSVJTVCIFNzQ1OTAiBTM1MzkyIgUzNjE0MiIFNDY4NTcwAEAA-gEgY2RkMzkwNTVkNDg4OTNlMTNmMWEwMGI2M2Y4M2Q0NDKCAiRjZjA2MjA2OC1kODFiLTQxYTItODRjZS1hZDFiYzU5OTM3ZTeKAgNQVUKSAgw1MC4yMDQuNTguNDaaAgJYUqACALACAfICiAFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE1LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzExNS4wLjE5MDEuMjAz-gIERWRnZYIDBTMwMzEzigMHQXRsYW50YZIDAzUyNJoDAkdBogMCVVOqAwIxMLEDfCx96IK6EUC6Awc0MTgwNDM5wgMDNTI0ygMQQ29tY2FzdCBCdXNpbmVzc9IDBHdpZmnaAwxzcHJlYWtlci5jb23qAyQyYjY0ZjQxOC00MGY3LTExZWUtYmM4YS0wMjZhYzU2MWQ4NmTKBDE4NDAsIDg1MCwgODYwLCA5NDAsIDk1MCwgOTYwLCA5MjA0MCwgOTIwNTAsIDkyMDYw4QR88rBQa5rlP-oEAjg58gQERWRnZfoEAkdBkgUIc3ByZWFrZXKaBSRjNzhlNmM0ZC0xNzZlLTQyMzgtYTJmOS01MGQ1NWFjZmI2MTTKBQEx0gUqYWRzd2l6ei13LWIyMGU4ZDhlYzAyNTYyNWE2NmMzZGRjMWJmN2I0ODE08AUA-gUcMjAxOjUyNCwxNTozNjE0MiwyMDA5Oi0zODA5N4AGBIkGmpmZmZmZqT-iBgw1MC4yMDQuNTguNDY&ez_p=&eid=3",
+                                "$": {
+                                  "event": "midpoint"
+                                }
+                              },
+                              {
+                                "_": "https://spreaker.deliveryengine.adswizz.com/vast/4.0/v1.1/quartile/third?H4sIAAAAAAAAAH1WW3PaOhD+NeTFY48l49uDHyAkOaRJ2pQ2oXlhZEnGKkb2sUQI/PqubGwT5vQMjNDeV7urT5D9yl1Vu9SRZMsTVdWcbHh9RQybCOUwXoh3Xh+SkT8dYczKvSxKwmA78mdXhVCaS14no9BIRcP3JrCGWURZGMWERjQNQuQFLM4YjnBMY8xpaBTxNazqzIgTGnMaZIx5yAspDmP4cYPYz3BGUG/CpG5NMlIoPgpnV4TNiCZJzauy1iCgRPN1WR9gO59MQxsHI2/Kyi0RspFKymvKpea1Q8vtyL/RpF5zzZkNpYBD5by2hcxKUPbAsisLKKaiKIRcgyAVjPFa2Ttlc6K0jRwCxapyQR3JIcHrzmq1iEJwEiI/wvbYRQiPbex6IRqPgf1zMYPVdVw3Co2arnfcJFQTyucM4uA08DgmYzDNQhshzu2URsR2cUCoHyAWBQwMFotvI3wrwKDP1ptSYTx4plhTarYQG7bHUvJVI/KBqi+NMqBNQm6ToBpI42Zb9rTrAi2rEwnNAnLdke1pKFDtCVX22U5lgyy9CJlexEwvg6YXUdOLsOmZ78vA6afIoi1xiFyUhv9bYki5LZlvUiJmzEzojGuaN+PrmzvgY9xyzA6WRmCuTic19+yTEOPmshWCKafabTuZmXTYvZNid6nfjMiJFc6M/1m782/44X7Dlvc5uyve0w06zn+XH08/JvvH671I8f2/b69PLlm+Fc84Rqn8nv/afhTz35VL5UvxcH2/STHKyetYfBX3grx+37wt748Py5fjw+tLTr1n/bjw87e7F0Xv8urXwd+9LZ9F9jzyZubr31Q0b6+YjxlnHuchSuMxjcZnE3bClqN0qgZzWmBZdPPXAgvZrbfmfrI53MJkqB5hrOZKkbQ4K0oLA33JBANLkQkCd1Xow6DnDTqKbW6k8cL+6qYoAUX+O5BBnP4QBZHrHVnzhMuWa9BUsEssBdW0JpLNGhRK9vu902kYDBpMW5hKPglpmsRxiKPYv9qSjwlTCbpw+/QZvoWadcDdQXZrgJQGnNKHiiegXJdFMUQ27XByAujHkuaogwmgPJE6eZksfrRM/qEdxYmeswSN40GRV/vEzOdZgZpgbZe/lYwCVnZN7lSOVamEFqU8qUFmtkntpLdTq6oW74QekjO3tNxJ3T9MPxcnZcbfBeXdg1T1b4tZoYNZgwa+62B37PiRMw76Z0WoQRuKbhK10p0SEgauV1rz8qTUBGBb0tv4gK2dWt1z16RnUt1ziYax0YOoor3Ic+Hx6wUFORl5nhOGPbeULdeOxo4X4+gUlZzeUmSgro0pe8dP8Dbm1mTLa0GHyGpI1TdGXa5ySLatbcted+dtjr9VHdk0AWE3cNs+wKtsvo3RbqjRY3mEBxToW99xrRGOHgkVUpcKIHRqzeHGFxawrK8La2khGCl/BX8VYmtSVQV/5ekXoY2tFzpeYMy//PPj8QGiWIXYcOuO001p1K/zujQwe4sQxDEfa0EyAi9db3zD1r0cxS6CgRiqXqoh4yabXpL2gi5G10E2VHrG1UaXlYIMA+uBVGY/KMq/udie90pbtzDgTT87uIGeOD3atBXnsi33H5fTJGXHCQAA",
+                                "$": {
+                                  "event": "thirdQuartile"
+                                }
+                              },
+                              {
+                                "_": "https://events-us-east-1.ipredictive.com/d/track/video?zid=adswizz_1_0_1&sid=ceb894f2-a7fb-4799-9937-5640b789c899-imp322_0_2b64f419-40f7-11ee-bc8a-026ac561d86d&crid=23046185&adid=71582&oid=2037144&cid=401124&spid=662&pubid=287&site_id=2793379616&auid=5032455&algid=1&algrev=1&offpc=8.769444444444444&maxbid=13.5&optpc=11.83214&cstpc=8.769444444444444&xts=1692800482&pbap=CgVhdWRpbxAHGgFtIgEyKglNaWNyb3NvZnQyBEVkZ2U6BE9TIFhCBjEyLjUuMVICZW5aEVBFUlNPTkFMX0NPTVBVVEVSYABqC0RBQVNUX0FVRElPigECLTSaASA5ZDk1NjczNGQxNGZlNjkxNzIxYTZmYjkzNzY5NTM4NqUBvBYHQq0BHcmowrIBBTM2MTQywAEAyAEC0gEHUFJJVkFURdoBVgokYzc4ZTZjNGQtMTc2ZS00MjM4LWEyZjktNTBkNTVhY2ZiNjE0EXwsfeiCuhFAGgVGSVJTVCIFNzQ1OTAiBTM1MzkyIgUzNjE0MiIFNDY4NTcwAEAA-gEgY2RkMzkwNTVkNDg4OTNlMTNmMWEwMGI2M2Y4M2Q0NDKCAiRjZjA2MjA2OC1kODFiLTQxYTItODRjZS1hZDFiYzU5OTM3ZTeKAgNQVUKSAgw1MC4yMDQuNTguNDaaAgJYUqACALACAfICiAFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE1LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzExNS4wLjE5MDEuMjAz-gIERWRnZYIDBTMwMzEzigMHQXRsYW50YZIDAzUyNJoDAkdBogMCVVOqAwIxMLEDfCx96IK6EUC6Awc0MTgwNDM5wgMDNTI0ygMQQ29tY2FzdCBCdXNpbmVzc9IDBHdpZmnaAwxzcHJlYWtlci5jb23qAyQyYjY0ZjQxOC00MGY3LTExZWUtYmM4YS0wMjZhYzU2MWQ4NmTKBDE4NDAsIDg1MCwgODYwLCA5NDAsIDk1MCwgOTYwLCA5MjA0MCwgOTIwNTAsIDkyMDYw4QR88rBQa5rlP-oEAjg58gQERWRnZfoEAkdBkgUIc3ByZWFrZXKaBSRjNzhlNmM0ZC0xNzZlLTQyMzgtYTJmOS01MGQ1NWFjZmI2MTTKBQEx0gUqYWRzd2l6ei13LWIyMGU4ZDhlYzAyNTYyNWE2NmMzZGRjMWJmN2I0ODE08AUA-gUcMjAxOjUyNCwxNTozNjE0MiwyMDA5Oi0zODA5N4AGBIkGmpmZmZmZqT-iBgw1MC4yMDQuNTguNDY&ez_p=&eid=4",
+                                "$": {
+                                  "event": "thirdQuartile"
+                                }
+                              },
+                              {
+                                "_": "https://spreaker.deliveryengine.adswizz.com/vast/4.0/v1.1/quartile/complete?H4sIAAAAAAAAAH1WW3PaOhD+NeTFY48l49uDHyAkOaRJ2pQ2oXlhZEnGKkb2sUQI/PqubGwT5vQMjNDeV7urT5D9yl1Vu9SRZMsTVdWcbHh9RQybCOUwXoh3Xh+SkT8dYczKvSxKwmA78mdXhVCaS14no9BIRcP3JrCGWURZGMWERjQNQuQFLM4YjnBMY8xpaBTxNazqzIgTGnMaZIx5yAspDmP4cYPYz3BGUG/CpG5NMlIoPgpnV4TNiCZJzauy1iCgRPN1WR9gO59MQxsHI2/Kyi0RspFKymvKpea1Q8vtyL/RpF5zzZkNpYBD5by2hcxKUPbAsisLKKaiKIRcgyAVjPFa2Ttlc6K0jRwCxapyQR3JIcHrzmq1iEJwEiI/wvbYRQiPbex6IRqPgf1zMYPVdVw3Co2arnfcJFQTyucM4uA08DgmYzDNQhshzu2URsR2cUCoHyAWBQwMFotvI3wrwKDP1ptSYTx4plhTarYQG7bHUvJVI/KBqi+NMqBNQm6ToBpI42Zb9rTrAi2rEwnNAnLdke1pKFDtCVX22U5lgyy9CJlexEwvg6YXUdOLsOmZ78vA6afIoi1xiFyUhv9bYki5LZlvUiJmzEzojGuaN+PrmzvgY9xyzA6WRmCuTic19+yTEOPmshWCKafabTuZmXTYvZNid6nfjMiJFc6M/1m782/44X7Dlvc5uyve0w06zn+XH08/JvvH671I8f2/b69PLlm+Fc84Rqn8nv/afhTz35VL5UvxcH2/STHKyetYfBX3grx+37wt748Py5fjw+tLTr1n/bjw87e7F0Xv8urXwd+9LZ9F9jzyZubr31Q0b6+YjxlnHuchSuMxjcZnE3bClqN0qgZzWmBZdPPXAgvZrbfmfrI53MJkqB5hrOZKkbQ4K0oLA33JBANLkQkCd1Xow6DnDTqKbW6k8cL+6qYoAUX+O5BBnP4QBZHrHVnzhMuWa9BUsEssBdW0JpLNGhRK9vu902kYDBpMW5hKPglpmsRxiKPYv9qSjwlTCbpw+/QZvoWadcDdQXZrgJQGnNKHiiegXJdFMUQ27XByAujHkuaogwmgPJE6eZksfrRM/qEdxYmeswSN40GRV/vEzOdZgZpgbZe/lYwCVnZN7lSOVamEFqU8qUFmtkntpLdTq6oW74QekjO3tNxJ3T9MPxcnZcbfBeXdg1T1b4tZoYNZgwa+62B37PiRMw76Z0WoQRuKbhK10p0SEgauV1rz8qTUBGBb0tv4gK2dWt1z16RnUt1ziYax0YOoor3Ic+Hx6wUFORl5nhOGPbeULdeOxo4X4+gUlZzeUmSgro0pe8dP8Dbm1mTLa0GHyGpI1TdGXa5ySLatbcted+dtjr9VHdk0AWE3cNs+wKtsvo3RbqjRY3mEBxToW99xrRGOHgkVUpcKIHRqzeHGFxawrK8La2khGCl/BX8VYmtSVQV/5ekXoY2tFzpeYMy//PPj8QGiWIXYcOuO001p1K/zujQwe4sQxDEfa0EyAi9db3zD1r0cxS6CgRiqXqoh4yabXpL2gi5G10E2VHrG1UaXlYIMA+uBVGY/KMq/udie90pbtzDgTT87uIGeOD3atBXnsi33H5fTJGXHCQAA",
+                                "$": {
+                                  "event": "complete"
+                                }
+                              },
+                              {
+                                "_": "https://events-us-east-1.ipredictive.com/d/track/video?zid=adswizz_1_0_1&sid=ceb894f2-a7fb-4799-9937-5640b789c899-imp322_0_2b64f419-40f7-11ee-bc8a-026ac561d86d&crid=23046185&adid=71582&oid=2037144&cid=401124&spid=662&pubid=287&site_id=2793379616&auid=5032455&algid=1&algrev=1&offpc=8.769444444444444&maxbid=13.5&optpc=11.83214&cstpc=8.769444444444444&xts=1692800482&pbap=CgVhdWRpbxAHGgFtIgEyKglNaWNyb3NvZnQyBEVkZ2U6BE9TIFhCBjEyLjUuMVICZW5aEVBFUlNPTkFMX0NPTVBVVEVSYABqC0RBQVNUX0FVRElPigECLTSaASA5ZDk1NjczNGQxNGZlNjkxNzIxYTZmYjkzNzY5NTM4NqUBvBYHQq0BHcmowrIBBTM2MTQywAEAyAEC0gEHUFJJVkFURdoBVgokYzc4ZTZjNGQtMTc2ZS00MjM4LWEyZjktNTBkNTVhY2ZiNjE0EXwsfeiCuhFAGgVGSVJTVCIFNzQ1OTAiBTM1MzkyIgUzNjE0MiIFNDY4NTcwAEAA-gEgY2RkMzkwNTVkNDg4OTNlMTNmMWEwMGI2M2Y4M2Q0NDKCAiRjZjA2MjA2OC1kODFiLTQxYTItODRjZS1hZDFiYzU5OTM3ZTeKAgNQVUKSAgw1MC4yMDQuNTguNDaaAgJYUqACALACAfICiAFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV83KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTE1LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzExNS4wLjE5MDEuMjAz-gIERWRnZYIDBTMwMzEzigMHQXRsYW50YZIDAzUyNJoDAkdBogMCVVOqAwIxMLEDfCx96IK6EUC6Awc0MTgwNDM5wgMDNTI0ygMQQ29tY2FzdCBCdXNpbmVzc9IDBHdpZmnaAwxzcHJlYWtlci5jb23qAyQyYjY0ZjQxOC00MGY3LTExZWUtYmM4YS0wMjZhYzU2MWQ4NmTKBDE4NDAsIDg1MCwgODYwLCA5NDAsIDk1MCwgOTYwLCA5MjA0MCwgOTIwNTAsIDkyMDYw4QR88rBQa5rlP-oEAjg58gQERWRnZfoEAkdBkgUIc3ByZWFrZXKaBSRjNzhlNmM0ZC0xNzZlLTQyMzgtYTJmOS01MGQ1NWFjZmI2MTTKBQEx0gUqYWRzd2l6ei13LWIyMGU4ZDhlYzAyNTYyNWE2NmMzZGRjMWJmN2I0ODE08AUA-gUcMjAxOjUyNCwxNTozNjE0MiwyMDA5Oi0zODA5N4AGBIkGmpmZmZmZqT-iBgw1MC4yMDQuNTguNDY&ez_p=&eid=5",
+                                "$": {
+                                  "event": "complete"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Category": [
+              {
+                "_": "IAB7-26",
+                "$": {
+                  "authority": "http://www.iabtechlab.com/categoryauthority"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

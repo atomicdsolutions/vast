@@ -1,0 +1,18 @@
+<div class="wrapper">
+    <mat-card>
+        <mat-card-title-group>
+            <mat-card-title>Report Test</mat-card-title>
+        </mat-card-title-group>
+        <mat-card-content>
+            <mat-form-field>
+                <mat-label>Body:</mat-label>
+                <input matinput [(ngModel)]="body" placeholder="Body">
+            </mat-form-field>
+        </mat-card-content>
+        <mat-card-actions align="start">
+            <button mat-button color="primary" (click)="getReport()">Get Vast response</button>
+        </mat-card-actions>
+    </mat-card>
+</div>
+<!-- Response time: {{ responsetime}} ms -->
+<pre *ngIf="responseData">{{responseData | json}}</pre>
